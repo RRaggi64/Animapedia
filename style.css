@@ -1,0 +1,33 @@
+h1  {
+  color: blanchedalmond;
+  font-family: cursive;
+  font-size: 40px;
+}
+body  {
+  background-color: black;
+  font-family: cursive;
+  margin-left: 120px;
+  margin-right: 120px;
+}
+h2  {
+  color: navajowhite;
+}
+p {
+  color: cornsilk;
+}
+a {
+  color: aquamarine;
+}
+h5  {
+  color: floralwhite
+}
+header  {
+  text-align: left;
+    }
+li  {
+  color: cornsilk;
+}
+footer {
+  text-align: center;
+  color: cornsilk
+}
